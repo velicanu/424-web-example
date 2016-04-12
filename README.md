@@ -11,4 +11,4 @@ To have code to use. Also to rebase
 This will be different on the conflict branch as soon as we save, close, add, and commit it.
 
 ## Method
-How MORE will we resolve DIFFS this conflict, since the "base" now ALL OVER has a conflict in it?
+How will we resolve this conflict, AND HERE since the "base" now has a conflict in it? DIFF ME NAO.
